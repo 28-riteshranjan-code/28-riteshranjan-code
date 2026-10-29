@@ -2,7 +2,7 @@ Hi there! 👋
 
 Who I Am
 
-- Name: [Your Name]
+- Name: Ritesh Ranjan
 - Education: PGDM Student
 - College: FIIB
 - About Me: An enthusiastic learner interested in business, innovation, and professional development.
